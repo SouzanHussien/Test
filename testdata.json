@@ -1,0 +1,8 @@
+[
+    {"text": "great ....thanks", "label": "close"},
+    {"text": "Teşekkürler ama olmuyor", "label": "ignore"},
+    {"text": "Sağolun fakat sorunum hala mevcut ", "label": "ignore"},
+    {"text": "thanks for all things", "label": "close"},
+    {"text": "Çok teşekkür ederim", "label": "close"},
+    {"text": "i appreciate your help ,but i need another solution", "label": "ignore"}
+]

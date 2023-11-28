@@ -1,0 +1,26 @@
+[
+    {"text": "thank you for your support.", "label": "close"},
+	{"text": "thank you", "label": "close"},
+    {"text": "thanks ", "label": "close"},
+    {"text": "i am really appreciate it", "label": "close"},
+    {"text": "Teşekkürler", "label": "close"},
+    {"text": "Sağolun", "label": "close"},
+    {"text": "thank you,but the problem still exist", "label": "ignore"},
+    {"text": "thanks ,but the issue is not solved", "label": "ignore"},
+    {"text": "Teşekkürler ama sorunum hala devam ediyor", "label": "ignore"},
+    {"text": "Sağolun,ama sorunum çözülmedi", "label": "ignore"},
+    {"text": "thank you for your help ,but this is not worked", "label": "ignore"},
+    {"text": "Teşekkürler,ama bir sorun var", "label": "ignore"},
+    {"text": "thank you but i need a different way ", "label": "ignore"},
+    {"text": "thanks is there a different choice ", "label": "ignore"},
+	{"text": "Çok teşekkür ederim ", "label": "close"},
+    {"text": "thank for help", "label": "close"},
+	{"text": "Sağolun,fakat olmuyor" ,"label": "ignore"},
+	{"text": "thanks for your help,but i need another way", "label": "ignore"},
+	{"text": "thanks ,but i need another solution", "label": "ignore"},
+    {"text": "thank you ,but i need another solution", "label": "ignore"},
+    {"text": "thanks at all", "label": "close"}
+
+
+
+]
