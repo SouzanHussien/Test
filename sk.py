@@ -5,6 +5,7 @@ import langdetect
 import os
 import requests
 import jwt
+nltk.download('punkt')
 from sklearn.datasets import fetch_20newsgroups
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
